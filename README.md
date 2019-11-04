@@ -1,2 +1,2 @@
-# [project-travel-mate.github.io](https://project-travel-mate.github.io)
-Website for Travel Mate.
+# [educational-surf-travel.github.io](https://educational-surf-travel.github.io)
+Website for educational-surf-travel.
